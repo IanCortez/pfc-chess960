@@ -1,0 +1,72 @@
+Score of fire vs lc0: 1714 - 7184 - 1102 [0.227]
+...      fire playing White: 920 - 3486 - 594  [0.243] 5000
+...      fire playing Black: 794 - 3698 - 508  [0.210] 5000
+...      White vs Black: 4618 - 4280 - 1102  [0.517] 10000
+Elo difference: -213.4 +/- 7.5, LOS: 0.0 %, DrawRatio: 11.0 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+10000 of 10000 games finished.
+
+Player: fire
+   "Draw by 3-fold repetition": 717
+   "Draw by fifty moves rule": 110
+   "Draw by insufficient mating material": 229
+   "Draw by stalemate": 46
+   "Loss: Black makes an illegal move: a2a4": 1
+   "Loss: Black makes an illegal move: b1c3": 6
+   "Loss: Black makes an illegal move: e1c1": 8
+   "Loss: Black makes an illegal move: e1g1": 19
+   "Loss: Black makes an illegal move: f2d3": 2
+   "Loss: Black makes an illegal move: f2f3": 1
+   "Loss: Black makes an illegal move: f2g3": 1
+   "Loss: Black makes an illegal move: g2g4": 7
+   "Loss: Black makes an illegal move: h5g7": 2
+   "Loss: Black mates": 3426
+   "Loss: White makes an illegal move: a5a4": 5
+   "Loss: White makes an illegal move: b7b5": 1
+   "Loss: White makes an illegal move: b8b5": 1
+   "Loss: White makes an illegal move: c6d4": 1
+   "Loss: White makes an illegal move: c7c5": 2
+   "Loss: White makes an illegal move: e6c5": 1
+   "Loss: White makes an illegal move: e8c8": 7
+   "Loss: White makes an illegal move: e8g8": 26
+   "Loss: White makes an illegal move: f8c5": 4
+   "Loss: White makes an illegal move: g6f8": 7
+   "Loss: White makes an illegal move: g8c4": 1
+   "Loss: White makes an illegal move: h6h4": 1
+   "Loss: White makes an illegal move: h7h5": 3
+   "Loss: White mates": 3651
+   "Win: Black loses on time": 1
+   "Win: Black mates": 794
+   "Win: White mates": 919
+Player: lc0
+   "Draw by 3-fold repetition": 717
+   "Draw by fifty moves rule": 110
+   "Draw by insufficient mating material": 229
+   "Draw by stalemate": 46
+   "Loss: Black loses on time": 1
+   "Loss: Black mates": 794
+   "Loss: White mates": 919
+   "Win: Black makes an illegal move: a2a4": 1
+   "Win: Black makes an illegal move: b1c3": 6
+   "Win: Black makes an illegal move: e1c1": 8
+   "Win: Black makes an illegal move: e1g1": 19
+   "Win: Black makes an illegal move: f2d3": 2
+   "Win: Black makes an illegal move: f2f3": 1
+   "Win: Black makes an illegal move: f2g3": 1
+   "Win: Black makes an illegal move: g2g4": 7
+   "Win: Black makes an illegal move: h5g7": 2
+   "Win: Black mates": 3426
+   "Win: White makes an illegal move: a5a4": 5
+   "Win: White makes an illegal move: b7b5": 1
+   "Win: White makes an illegal move: b8b5": 1
+   "Win: White makes an illegal move: c6d4": 1
+   "Win: White makes an illegal move: c7c5": 2
+   "Win: White makes an illegal move: e6c5": 1
+   "Win: White makes an illegal move: e8c8": 7
+   "Win: White makes an illegal move: e8g8": 26
+   "Win: White makes an illegal move: f8c5": 4
+   "Win: White makes an illegal move: g6f8": 7
+   "Win: White makes an illegal move: g8c4": 1
+   "Win: White makes an illegal move: h6h4": 1
+   "Win: White makes an illegal move: h7h5": 3
+   "Win: White mates": 3651

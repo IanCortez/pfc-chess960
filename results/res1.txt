@@ -1,0 +1,50 @@
+Score of Stockfish vs fire: 168 - 9449 - 383 [0.036]
+...      Stockfish playing White: 85 - 4695 - 220  [0.039] 5000
+...      Stockfish playing Black: 83 - 4754 - 163  [0.033] 5000
+...      White vs Black: 4839 - 4778 - 383  [0.503] 10000
+Elo difference: -571.4 +/- 15.6, LOS: 0.0 %, DrawRatio: 3.8 %
+SPRT: llr 0 (0.0%), lbound -inf, ubound inf
+10000 of 10000 games finished.
+
+Player: Stockfish
+   "Draw by 3-fold repetition": 222
+   "Draw by fifty moves rule": 97
+   "Draw by insufficient mating material": 54
+   "Draw by stalemate": 10
+   "Loss: Black mates": 4695
+   "Loss: White mates": 4754
+   "Win: Black makes an illegal move: a1b1": 13
+   "Win: Black makes an illegal move: c1b3": 5
+   "Win: Black makes an illegal move: c3e4": 3
+   "Win: Black makes an illegal move: d4f3": 4
+   "Win: Black makes an illegal move: e1g1": 13
+   "Win: Black makes an illegal move: g2d5": 3
+   "Win: Black mates": 24
+   "Win: White makes an illegal move: c6c5": 4
+   "Win: White makes an illegal move: e5e4": 2
+   "Win: White makes an illegal move: e7d5": 8
+   "Win: White makes an illegal move: e8c8": 7
+   "Win: White makes an illegal move: e8f8": 1
+   "Win: White makes an illegal move: e8g8": 37
+   "Win: White mates": 44
+Player: fire
+   "Draw by 3-fold repetition": 222
+   "Draw by fifty moves rule": 97
+   "Draw by insufficient mating material": 54
+   "Draw by stalemate": 10
+   "Loss: Black makes an illegal move: a1b1": 13
+   "Loss: Black makes an illegal move: c1b3": 5
+   "Loss: Black makes an illegal move: c3e4": 3
+   "Loss: Black makes an illegal move: d4f3": 4
+   "Loss: Black makes an illegal move: e1g1": 13
+   "Loss: Black makes an illegal move: g2d5": 3
+   "Loss: Black mates": 24
+   "Loss: White makes an illegal move: c6c5": 4
+   "Loss: White makes an illegal move: e5e4": 2
+   "Loss: White makes an illegal move: e7d5": 8
+   "Loss: White makes an illegal move: e8c8": 7
+   "Loss: White makes an illegal move: e8f8": 1
+   "Loss: White makes an illegal move: e8g8": 37
+   "Loss: White mates": 44
+   "Win: Black mates": 4695
+   "Win: White mates": 4754
